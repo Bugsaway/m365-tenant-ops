@@ -1,0 +1,9 @@
+[
+  {
+    "Name": "Contoso Dental",
+    "TenantId": "00000000-0000-0000-0000-000000000000",
+    "ExchangeOrganization": "contoso.onmicrosoft.com",
+    "AppId": "",
+    "CertificateThumbprint": ""
+  }
+]
