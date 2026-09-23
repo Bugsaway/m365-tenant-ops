@@ -1,0 +1,20 @@
+# Local scratch and output
+*.bak
+*.log
+*.zip
+IR/
+**/out/
+**/RestoreTest/
+
+# Editor and OS noise
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+
+# Tenant list and outputs never go in git
+tenants.json
+output/
+ca-export/
+offboarding-logs/
+*.csv
